@@ -6,4 +6,7 @@ This modification includes:
 -Retail Assets
 -New areas
 
+Uses the "Half-Life 2 2003 Storyline Port" as a base, link which is listed below.
+https://www.moddb.com/mods/half-life-2-2003-storyline-port
+
 This is a developer repository, sharing any type of file from here is strictly prohibited.
