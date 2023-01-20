@@ -1,0 +1,73 @@
+// Choreo version 1
+actor "Barney"
+{
+  channel "Audio"
+  {
+    event speak "remember me"
+    {
+      time 0.066667 3.696055
+      param "2003_Trainyard.ba_rememberme"
+      fixedlength
+    }
+    event speak "sorry for the scare"
+    {
+      time 4.360000 7.465759
+      param "2003_Trainyard.ba_sorryscare"
+      fixedlength
+    }
+    event speak "not surprised"
+    {
+      time 7.993332 9.754488
+      param "2003_Trainyard.ba_notsurprised"
+      fixedlength
+    }
+    event speak "I've changed"
+    {
+      time 9.900000 11.487006
+      param "2003_Trainyard.ba_ivechanged"
+      fixedlength
+    }
+    event speak "undercover as a hack"
+    {
+      time 11.926668 14.477031
+      param "2003_Trainyard.ba_undercover"
+      fixedlength
+    }
+  }
+  channel "Look at"
+  {
+    event lookat "lookat player"
+    {
+      time 0.073333 10.440001
+      param "!player"
+    }
+    event lookat "lookatmonitor"
+    {
+      time 10.653333 13.280000
+      param "ba_security_monitor_looktarget"
+    }
+    event lookat "lookatplayer"
+    {
+      time 13.400000 14.106667
+      param "!player"
+    }
+    event lookat "lookatmonitor"
+    {
+      time 14.166667 15.086666
+      param "ba_security_monitor_looktarget"
+    }
+  }
+  channel "move to"
+  {
+    event moveto "move to  monitor"
+    {
+      time 8.173333 -1.000000
+      param "barney_security_room_monitor_mark"
+    }
+  }
+  faceposermodel "U:\dev\hl2\models\Barney.mdl"
+}
+
+mapname "maps\security_room_01.bsp"
+fps 60
+snap off

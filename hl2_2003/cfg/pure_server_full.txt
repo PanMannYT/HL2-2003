@@ -1,0 +1,17 @@
+whitelist
+{
+	// Server rules used for sv_pure.
+	//
+	// Do not modify this file.
+	//
+	// See pure_server_whitelist_example.txt for more details on when this file is used and what the rules mean.
+
+	//
+	// Require official files for most assets
+	//
+
+	sound\...                            trusted_source
+	models\...                           trusted_source
+	materials\...                        trusted_source
+	particles\...                        trusted_source
+}

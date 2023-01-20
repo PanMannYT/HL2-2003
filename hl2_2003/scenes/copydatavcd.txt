@@ -1,0 +1,27 @@
+// Choreo version 1
+actor "Barney"
+{
+  channel "move to"
+  {
+    event gesture "Gesture01"
+    {
+      time 3.416170 5.382836
+      param "Gesture01"
+      absolutetags playback_time
+      {
+        "apex" 0.137931
+        "accent" 0.258621
+        "loop" 0.396552
+        "end" 0.517241
+      }
+      absolutetags shifted_time
+      {
+        "apex" 0.137931
+        "accent" 0.258621
+        "loop" 0.396552
+        "end" 0.517241
+      }
+    }
+  }
+}
+

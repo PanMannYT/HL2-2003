@@ -1,0 +1,1772 @@
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001d"!
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001f"!
+Patching WVT material: maps/2003_trainstation_02/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 674 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (822509 bytes)
+Error! prop_static using model "models/2003/props_trainstation/bench_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/bench_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_trainstation/trashcan_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/trashcan_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_c17/FurnitureTable002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/FurnitureTable002a.mdl"!
+Error! prop_static using model "models/2003/props_c17/cashregister01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/cashregister01a.mdl"!
+Error! prop_static using model "models/2003/props_c17/storescale01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/storescale01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/metal_paintcan001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/metal_paintcan001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/cardboard_box002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/cardboard_box002a.mdl"!
+Error! prop_static using model "models/2003/props_interiors/Radiator01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_interiors/Radiator01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/TrashBin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/TrashBin01a.mdl"!
+Error! prop_static using model "models/2003/props_lab/monitor01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_lab/monitor01c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6198 texinfos to 2724
+Reduced 673 texdatas to 422 (41936 bytes to 25067)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt
+ 892 portalclusters
+2548 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2487 visible clusters (0.90%)
+Total clusters visible: 277811
+Average clusters visible: 311
+Building PAS...
+Average clusters audible: 704
+visdatasize:171490  compressed from 199808
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+1 minute, 16 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+ERROR: Duplication of 'shadertest/gooinglass' in file 'lights.rad'!
+ERROR: Duplication of '2003_plaster/plasterwall029h' in file 'lights.rad'!
+[81 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+6982 faces
+1 degenerate faces
+1969479 square feet [283605056.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6981 patches before subdivision
+49707 patches after subdivision
+40 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7723790, max 1499
+transfer lists:  58.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(201577, 173429, 102434)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(37001, 29293, 13921)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8550, 6450, 2607)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2140, 1517, 513)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(647, 438, 128)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(192, 121, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(67, 41, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(22, 12, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(8, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0074 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+4 of 5 (80% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 146/1024         7008/49152    (14.3%) 
+brushes               2206/8192        26472/98304    (26.9%) 
+brushsides           19322/65536      154576/524288   (29.5%) 
+planes               18276/65536      365520/1310720  (27.9%) 
+vertexes             12459/65536      149508/786432   (19.0%) 
+nodes                 3136/65536      100352/2097152  ( 4.8%) 
+texinfos              2724/12288      196128/884736   (22.2%) 
+texdata                422/2048        13504/65536    (20.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6982/65536      390992/3670016  (10.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5539/65536      310184/3670016  ( 8.5%) 
+leaves                3283/65536      105056/2097152  ( 5.0%) 
+leaffaces             8905/65536       17810/131072   (13.6%) 
+leafbrushes           4155/65536        8310/131072   ( 6.3%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges            56196/512000     224784/2048000  (11.0%) 
+edges                35844/256000     143376/1024000  (14.0%) 
+LDR worldlights         38/8192         3344/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/32768        6690/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13203/65536       26406/131072   (20.1%) 
+cubemapsamples          55/1024          880/16384    ( 5.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1719976/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      171490/16777216 ( 1.0%) 
+entdata               [variable]      108684/393216   (27.6%) 
+LDR ambient table     3283/65536       13132/262144   ( 5.0%) 
+HDR ambient table     3283/65536       13132/262144   ( 5.0%) 
+LDR leaf ambient     10673/65536      298844/1835008  (16.3%) 
+HDR leaf ambient      3283/65536       91924/1835008  ( 5.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/22770    ( 0.0%) 
+pakfile               [variable]     4759846/0        ( 0.0%) 
+physics               [variable]      822509/4194304  (19.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20030
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+22 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001d"!
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001f"!
+Patching WVT material: maps/2003_trainstation_02/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 674 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (824552 bytes)
+Error! prop_static using model "models/2003/props_trainstation/bench_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/bench_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_trainstation/trashcan_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/trashcan_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_c17/FurnitureTable002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/FurnitureTable002a.mdl"!
+Error! prop_static using model "models/2003/props_c17/cashregister01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/cashregister01a.mdl"!
+Error! prop_static using model "models/2003/props_c17/storescale01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/storescale01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/metal_paintcan001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/metal_paintcan001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/cardboard_box002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/cardboard_box002a.mdl"!
+Error! prop_static using model "models/2003/props_interiors/Radiator01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_interiors/Radiator01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/TrashBin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/TrashBin01a.mdl"!
+Error! prop_static using model "models/2003/props_lab/monitor01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_lab/monitor01c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6216 texinfos to 2733
+Reduced 673 texdatas to 422 (41936 bytes to 25067)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt
+ 892 portalclusters
+2548 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2487 visible clusters (0.90%)
+Total clusters visible: 277809
+Average clusters visible: 311
+Building PAS...
+Average clusters audible: 704
+visdatasize:171492  compressed from 199808
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+1 minute, 18 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+ERROR: Duplication of 'shadertest/gooinglass' in file 'lights.rad'!
+ERROR: Duplication of '2003_plaster/plasterwall029h' in file 'lights.rad'!
+[81 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+7004 faces
+1 degenerate faces
+1971305 square feet [283868032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7003 patches before subdivision
+49729 patches after subdivision
+40 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7723447, max 1499
+transfer lists:  58.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(201418, 173307, 102388)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(36991, 29288, 13922)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8553, 6453, 2609)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2141, 1518, 513)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(647, 438, 128)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(192, 121, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(67, 41, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(22, 12, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(8, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0068 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+4 of 5 (80% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 149/1024         7152/49152    (14.6%) 
+brushes               2209/8192        26508/98304    (27.0%) 
+brushsides           19360/65536      154880/524288   (29.5%) 
+planes               18390/65536      367800/1310720  (28.1%) 
+vertexes             12491/65536      149892/786432   (19.1%) 
+nodes                 3158/65536      101056/2097152  ( 4.8%) 
+texinfos              2733/12288      196776/884736   (22.2%) 
+texdata                422/2048        13504/65536    (20.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7004/65536      392224/3670016  (10.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5561/65536      311416/3670016  ( 8.5%) 
+leaves                3308/65536      105856/2097152  ( 5.0%) 
+leaffaces             8927/65536       17854/131072   (13.6%) 
+leafbrushes           4158/65536        8316/131072   ( 6.3%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges            56388/512000     225552/2048000  (11.0%) 
+edges                35940/256000     143760/1024000  (14.0%) 
+LDR worldlights         38/8192         3344/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/32768        6690/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13203/65536       26406/131072   (20.1%) 
+cubemapsamples          55/1024          880/16384    ( 5.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1719976/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      171492/16777216 ( 1.0%) 
+entdata               [variable]      116331/393216   (29.6%) 
+LDR ambient table     3308/65536       13232/262144   ( 5.0%) 
+HDR ambient table     3308/65536       13232/262144   ( 5.0%) 
+LDR leaf ambient     10769/65536      301532/1835008  (16.4%) 
+HDR leaf ambient      3308/65536       92624/1835008  ( 5.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/22964    ( 0.0%) 
+pakfile               [variable]     4759846/0        ( 0.0%) 
+physics               [variable]      824552/4194304  (19.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20082
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+23 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001d"!
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001f"!
+Patching WVT material: maps/2003_trainstation_02/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 674 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (824552 bytes)
+Error! prop_static using model "models/2003/props_trainstation/bench_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/bench_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_trainstation/trashcan_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/trashcan_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_c17/FurnitureTable002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/FurnitureTable002a.mdl"!
+Error! prop_static using model "models/2003/props_c17/cashregister01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/cashregister01a.mdl"!
+Error! prop_static using model "models/2003/props_c17/storescale01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/storescale01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/metal_paintcan001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/metal_paintcan001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/cardboard_box002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/cardboard_box002a.mdl"!
+Error! prop_static using model "models/2003/props_interiors/Radiator01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_interiors/Radiator01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/TrashBin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/TrashBin01a.mdl"!
+Error! prop_static using model "models/2003/props_lab/monitor01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_lab/monitor01c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6216 texinfos to 2733
+Reduced 673 texdatas to 422 (41936 bytes to 25067)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt
+ 892 portalclusters
+2548 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2487 visible clusters (0.90%)
+Total clusters visible: 277809
+Average clusters visible: 311
+Building PAS...
+Average clusters audible: 704
+visdatasize:171492  compressed from 199808
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+1 minute, 25 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+ERROR: Duplication of 'shadertest/gooinglass' in file 'lights.rad'!
+ERROR: Duplication of '2003_plaster/plasterwall029h' in file 'lights.rad'!
+[81 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+7004 faces
+1 degenerate faces
+1971305 square feet [283868032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7003 patches before subdivision
+49729 patches after subdivision
+40 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7723447, max 1499
+transfer lists:  58.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(201418, 173307, 102388)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(36991, 29288, 13922)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8553, 6453, 2609)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2141, 1518, 513)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(647, 438, 128)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(192, 121, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(67, 41, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(22, 12, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(8, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0075 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+4 of 5 (80% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 149/1024         7152/49152    (14.6%) 
+brushes               2209/8192        26508/98304    (27.0%) 
+brushsides           19360/65536      154880/524288   (29.5%) 
+planes               18390/65536      367800/1310720  (28.1%) 
+vertexes             12491/65536      149892/786432   (19.1%) 
+nodes                 3158/65536      101056/2097152  ( 4.8%) 
+texinfos              2733/12288      196776/884736   (22.2%) 
+texdata                422/2048        13504/65536    (20.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7004/65536      392224/3670016  (10.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5561/65536      311416/3670016  ( 8.5%) 
+leaves                3308/65536      105856/2097152  ( 5.0%) 
+leaffaces             8927/65536       17854/131072   (13.6%) 
+leafbrushes           4158/65536        8316/131072   ( 6.3%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges            56388/512000     225552/2048000  (11.0%) 
+edges                35940/256000     143760/1024000  (14.0%) 
+LDR worldlights         38/8192         3344/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/32768        6690/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13203/65536       26406/131072   (20.1%) 
+cubemapsamples          55/1024          880/16384    ( 5.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1719976/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      171492/16777216 ( 1.0%) 
+entdata               [variable]      116404/393216   (29.6%) 
+LDR ambient table     3308/65536       13232/262144   ( 5.0%) 
+HDR ambient table     3308/65536       13232/262144   ( 5.0%) 
+LDR leaf ambient     10769/65536      301532/1835008  (16.4%) 
+HDR leaf ambient      3308/65536       92624/1835008  ( 5.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/22964    ( 0.0%) 
+pakfile               [variable]     4759846/0        ( 0.0%) 
+physics               [variable]      824552/4194304  (19.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20082
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+24 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001d"!
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001f"!
+Patching WVT material: maps/2003_trainstation_02/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 674 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (825662 bytes)
+Error! prop_static using model "models/2003/props_trainstation/bench_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/bench_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_trainstation/trashcan_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/trashcan_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_c17/FurnitureTable002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/FurnitureTable002a.mdl"!
+Error! prop_static using model "models/2003/props_c17/cashregister01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/cashregister01a.mdl"!
+Error! prop_static using model "models/2003/props_c17/storescale01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/storescale01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/metal_paintcan001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/metal_paintcan001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/cardboard_box002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/cardboard_box002a.mdl"!
+Error! prop_static using model "models/2003/props_interiors/Radiator01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_interiors/Radiator01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/TrashBin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/TrashBin01a.mdl"!
+Error! prop_static using model "models/2003/props_lab/monitor01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_lab/monitor01c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6226 texinfos to 2739
+Reduced 673 texdatas to 422 (41936 bytes to 25067)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt
+ 892 portalclusters
+2548 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2487 visible clusters (0.90%)
+Total clusters visible: 277809
+Average clusters visible: 311
+Building PAS...
+Average clusters audible: 704
+visdatasize:171492  compressed from 199808
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+1 minute, 20 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+ERROR: Duplication of 'shadertest/gooinglass' in file 'lights.rad'!
+ERROR: Duplication of '2003_plaster/plasterwall029h' in file 'lights.rad'!
+[81 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+7016 faces
+1 degenerate faces
+1972694 square feet [284067968.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7015 patches before subdivision
+49741 patches after subdivision
+40 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7724448, max 1499
+transfer lists:  58.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(201450, 173343, 102425)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(37016, 29313, 13941)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8564, 6463, 2615)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2146, 1522, 515)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(649, 440, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(193, 122, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(68, 41, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(22, 12, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(8, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0086 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+4 of 5 (80% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 151/1024         7248/49152    (14.7%) 
+brushes               2211/8192        26532/98304    (27.0%) 
+brushsides           19372/65536      154976/524288   (29.6%) 
+planes               18412/65536      368240/1310720  (28.1%) 
+vertexes             12507/65536      150084/786432   (19.1%) 
+nodes                 3170/65536      101440/2097152  ( 4.8%) 
+texinfos              2739/12288      197208/884736   (22.3%) 
+texdata                422/2048        13504/65536    (20.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7016/65536      392896/3670016  (10.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5573/65536      312088/3670016  ( 8.5%) 
+leaves                3322/65536      106304/2097152  ( 5.1%) 
+leaffaces             8939/65536       17878/131072   (13.6%) 
+leafbrushes           4160/65536        8320/131072   ( 6.3%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges            56484/512000     225936/2048000  (11.0%) 
+edges                35988/256000     143952/1024000  (14.1%) 
+LDR worldlights         38/8192         3344/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/32768        6690/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13203/65536       26406/131072   (20.1%) 
+cubemapsamples          55/1024          880/16384    ( 5.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1719976/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      171492/16777216 ( 1.0%) 
+entdata               [variable]      117256/393216   (29.8%) 
+LDR ambient table     3322/65536       13288/262144   ( 5.1%) 
+HDR ambient table     3322/65536       13288/262144   ( 5.1%) 
+LDR leaf ambient     10861/65536      304108/1835008  (16.6%) 
+HDR leaf ambient      3322/65536       93016/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/22968    ( 0.0%) 
+pakfile               [variable]     4759846/0        ( 0.0%) 
+physics               [variable]      825662/4194304  (19.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20106
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+23 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001d"!
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001f"!
+Patching WVT material: maps/2003_trainstation_02/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 674 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (825662 bytes)
+Error! prop_static using model "models/2003/props_trainstation/bench_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/bench_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_trainstation/trashcan_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/trashcan_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_c17/FurnitureTable002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/FurnitureTable002a.mdl"!
+Error! prop_static using model "models/2003/props_c17/cashregister01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/cashregister01a.mdl"!
+Error! prop_static using model "models/2003/props_c17/storescale01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/storescale01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/metal_paintcan001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/metal_paintcan001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/cardboard_box002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/cardboard_box002a.mdl"!
+Error! prop_static using model "models/2003/props_interiors/Radiator01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_interiors/Radiator01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/TrashBin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/TrashBin01a.mdl"!
+Error! prop_static using model "models/2003/props_lab/monitor01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_lab/monitor01c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6226 texinfos to 2739
+Reduced 673 texdatas to 422 (41936 bytes to 25067)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt
+ 892 portalclusters
+2548 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2487 visible clusters (0.90%)
+Total clusters visible: 277809
+Average clusters visible: 311
+Building PAS...
+Average clusters audible: 704
+visdatasize:171492  compressed from 199808
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+1 minute, 21 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+ERROR: Duplication of 'shadertest/gooinglass' in file 'lights.rad'!
+ERROR: Duplication of '2003_plaster/plasterwall029h' in file 'lights.rad'!
+[81 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+7016 faces
+1 degenerate faces
+1972694 square feet [284067968.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7015 patches before subdivision
+49741 patches after subdivision
+40 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7724448, max 1499
+transfer lists:  58.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(201449, 173342, 102425)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(37016, 29312, 13941)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8564, 6463, 2615)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2146, 1522, 515)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(649, 440, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(193, 122, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(68, 41, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(22, 12, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(8, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0079 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+4 of 5 (80% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 151/1024         7248/49152    (14.7%) 
+brushes               2211/8192        26532/98304    (27.0%) 
+brushsides           19372/65536      154976/524288   (29.6%) 
+planes               18412/65536      368240/1310720  (28.1%) 
+vertexes             12507/65536      150084/786432   (19.1%) 
+nodes                 3170/65536      101440/2097152  ( 4.8%) 
+texinfos              2739/12288      197208/884736   (22.3%) 
+texdata                422/2048        13504/65536    (20.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7016/65536      392896/3670016  (10.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5573/65536      312088/3670016  ( 8.5%) 
+leaves                3322/65536      106304/2097152  ( 5.1%) 
+leaffaces             8939/65536       17878/131072   (13.6%) 
+leafbrushes           4160/65536        8320/131072   ( 6.3%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges            56484/512000     225936/2048000  (11.0%) 
+edges                35988/256000     143952/1024000  (14.1%) 
+LDR worldlights         38/8192         3344/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/32768        6690/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13203/65536       26406/131072   (20.1%) 
+cubemapsamples          55/1024          880/16384    ( 5.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1719976/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      171492/16777216 ( 1.0%) 
+entdata               [variable]      117256/393216   (29.8%) 
+LDR ambient table     3322/65536       13288/262144   ( 5.1%) 
+HDR ambient table     3322/65536       13288/262144   ( 5.1%) 
+LDR leaf ambient     10861/65536      304108/1835008  (16.6%) 
+HDR leaf ambient      3322/65536       93016/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/22968    ( 0.0%) 
+pakfile               [variable]     4759846/0        ( 0.0%) 
+physics               [variable]      825662/4194304  (19.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20106
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+24 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001d"!
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001f"!
+Patching WVT material: maps/2003_trainstation_02/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 674 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (825662 bytes)
+Error! prop_static using model "models/2003/props_trainstation/bench_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/bench_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_trainstation/trashcan_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/trashcan_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_c17/FurnitureTable002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/FurnitureTable002a.mdl"!
+Error! prop_static using model "models/2003/props_c17/cashregister01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/cashregister01a.mdl"!
+Error! prop_static using model "models/2003/props_c17/storescale01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/storescale01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/metal_paintcan001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/metal_paintcan001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/cardboard_box002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/cardboard_box002a.mdl"!
+Error! prop_static using model "models/2003/props_interiors/Radiator01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_interiors/Radiator01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/TrashBin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/TrashBin01a.mdl"!
+Error! prop_static using model "models/2003/props_lab/monitor01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_lab/monitor01c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6226 texinfos to 2739
+Reduced 673 texdatas to 422 (41936 bytes to 25067)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt
+ 892 portalclusters
+2548 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2487 visible clusters (0.90%)
+Total clusters visible: 277811
+Average clusters visible: 311
+Building PAS...
+Average clusters audible: 704
+visdatasize:171490  compressed from 199808
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+1 minute, 18 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+ERROR: Duplication of 'shadertest/gooinglass' in file 'lights.rad'!
+ERROR: Duplication of '2003_plaster/plasterwall029h' in file 'lights.rad'!
+[81 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+7016 faces
+1 degenerate faces
+1972694 square feet [284067968.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7015 patches before subdivision
+49741 patches after subdivision
+40 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7724448, max 1499
+transfer lists:  58.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(201449, 173343, 102425)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(37016, 29313, 13941)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8564, 6463, 2615)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2146, 1522, 515)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(649, 440, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(193, 122, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(68, 41, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(22, 12, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(8, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0068 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+4 of 5 (80% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 151/1024         7248/49152    (14.7%) 
+brushes               2211/8192        26532/98304    (27.0%) 
+brushsides           19372/65536      154976/524288   (29.6%) 
+planes               18412/65536      368240/1310720  (28.1%) 
+vertexes             12507/65536      150084/786432   (19.1%) 
+nodes                 3170/65536      101440/2097152  ( 4.8%) 
+texinfos              2739/12288      197208/884736   (22.3%) 
+texdata                422/2048        13504/65536    (20.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7016/65536      392896/3670016  (10.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5573/65536      312088/3670016  ( 8.5%) 
+leaves                3322/65536      106304/2097152  ( 5.1%) 
+leaffaces             8939/65536       17878/131072   (13.6%) 
+leafbrushes           4160/65536        8320/131072   ( 6.3%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges            56484/512000     225936/2048000  (11.0%) 
+edges                35988/256000     143952/1024000  (14.1%) 
+LDR worldlights         38/8192         3344/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/32768        6690/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13203/65536       26406/131072   (20.1%) 
+cubemapsamples          55/1024          880/16384    ( 5.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1719976/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      171490/16777216 ( 1.0%) 
+entdata               [variable]      117441/393216   (29.9%) 
+LDR ambient table     3322/65536       13288/262144   ( 5.1%) 
+HDR ambient table     3322/65536       13288/262144   ( 5.1%) 
+LDR leaf ambient     10861/65536      304108/1835008  (16.6%) 
+HDR leaf ambient      3322/65536       93016/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/22968    ( 0.0%) 
+pakfile               [variable]     4759846/0        ( 0.0%) 
+physics               [variable]      825662/4194304  (19.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20106
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+23 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001d"!
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001f"!
+Patching WVT material: maps/2003_trainstation_02/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 674 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (825662 bytes)
+Error! prop_static using model "models/2003/props_trainstation/bench_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/bench_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_trainstation/trashcan_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/trashcan_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_c17/FurnitureTable002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/FurnitureTable002a.mdl"!
+Error! prop_static using model "models/2003/props_c17/cashregister01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/cashregister01a.mdl"!
+Error! prop_static using model "models/2003/props_c17/storescale01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/storescale01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/metal_paintcan001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/metal_paintcan001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/cardboard_box002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/cardboard_box002a.mdl"!
+Error! prop_static using model "models/2003/props_interiors/Radiator01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_interiors/Radiator01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/TrashBin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/TrashBin01a.mdl"!
+Error! prop_static using model "models/2003/props_lab/monitor01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_lab/monitor01c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6226 texinfos to 2739
+Reduced 673 texdatas to 422 (41936 bytes to 25067)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt
+ 892 portalclusters
+2548 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2487 visible clusters (0.90%)
+Total clusters visible: 277811
+Average clusters visible: 311
+Building PAS...
+Average clusters audible: 704
+visdatasize:171490  compressed from 199808
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+1 minute, 22 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+ERROR: Duplication of 'shadertest/gooinglass' in file 'lights.rad'!
+ERROR: Duplication of '2003_plaster/plasterwall029h' in file 'lights.rad'!
+[81 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+7016 faces
+1 degenerate faces
+1972694 square feet [284067968.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7015 patches before subdivision
+49741 patches after subdivision
+40 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7724448, max 1499
+transfer lists:  58.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(201449, 173343, 102425)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(37016, 29312, 13941)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8564, 6463, 2615)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2146, 1522, 515)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(649, 440, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(193, 122, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(68, 41, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(22, 12, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(8, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0069 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+4 of 5 (80% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 151/1024         7248/49152    (14.7%) 
+brushes               2211/8192        26532/98304    (27.0%) 
+brushsides           19372/65536      154976/524288   (29.6%) 
+planes               18412/65536      368240/1310720  (28.1%) 
+vertexes             12507/65536      150084/786432   (19.1%) 
+nodes                 3170/65536      101440/2097152  ( 4.8%) 
+texinfos              2739/12288      197208/884736   (22.3%) 
+texdata                422/2048        13504/65536    (20.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7016/65536      392896/3670016  (10.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5573/65536      312088/3670016  ( 8.5%) 
+leaves                3322/65536      106304/2097152  ( 5.1%) 
+leaffaces             8939/65536       17878/131072   (13.6%) 
+leafbrushes           4160/65536        8320/131072   ( 6.3%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges            56484/512000     225936/2048000  (11.0%) 
+edges                35988/256000     143952/1024000  (14.1%) 
+LDR worldlights         38/8192         3344/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/32768        6690/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13203/65536       26406/131072   (20.1%) 
+cubemapsamples          55/1024          880/16384    ( 5.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1719976/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      171490/16777216 ( 1.0%) 
+entdata               [variable]      117751/393216   (29.9%) 
+LDR ambient table     3322/65536       13288/262144   ( 5.1%) 
+HDR ambient table     3322/65536       13288/262144   ( 5.1%) 
+LDR leaf ambient     10861/65536      304108/1835008  (16.6%) 
+HDR leaf ambient      3322/65536       93016/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/22968    ( 0.0%) 
+pakfile               [variable]     4759846/0        ( 0.0%) 
+physics               [variable]      825662/4194304  (19.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20106
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+23 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001d"!
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001f"!
+Patching WVT material: maps/2003_trainstation_02/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 674 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (825662 bytes)
+Error! prop_static using model "models/2003/props_trainstation/bench_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/bench_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_trainstation/trashcan_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/trashcan_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_c17/FurnitureTable002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/FurnitureTable002a.mdl"!
+Error! prop_static using model "models/2003/props_c17/cashregister01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/cashregister01a.mdl"!
+Error! prop_static using model "models/2003/props_c17/storescale01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/storescale01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/metal_paintcan001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/metal_paintcan001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/cardboard_box002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/cardboard_box002a.mdl"!
+Error! prop_static using model "models/2003/props_interiors/Radiator01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_interiors/Radiator01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/TrashBin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/TrashBin01a.mdl"!
+Error! prop_static using model "models/2003/props_lab/monitor01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_lab/monitor01c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6226 texinfos to 2739
+Reduced 673 texdatas to 422 (41936 bytes to 25067)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt
+ 892 portalclusters
+2548 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2493 visible clusters (0.90%)
+Total clusters visible: 277815
+Average clusters visible: 311
+Building PAS...
+Average clusters audible: 704
+visdatasize:171492  compressed from 199808
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+1 minute, 22 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+ERROR: Duplication of 'shadertest/gooinglass' in file 'lights.rad'!
+ERROR: Duplication of '2003_plaster/plasterwall029h' in file 'lights.rad'!
+[81 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+7016 faces
+1 degenerate faces
+1972694 square feet [284067968.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7015 patches before subdivision
+49741 patches after subdivision
+40 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7724448, max 1499
+transfer lists:  58.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(201449, 173342, 102425)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(37016, 29312, 13941)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8564, 6463, 2615)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2146, 1522, 515)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(649, 440, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(193, 122, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(68, 41, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(22, 12, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(8, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0071 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+4 of 5 (80% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 151/1024         7248/49152    (14.7%) 
+brushes               2211/8192        26532/98304    (27.0%) 
+brushsides           19372/65536      154976/524288   (29.6%) 
+planes               18412/65536      368240/1310720  (28.1%) 
+vertexes             12507/65536      150084/786432   (19.1%) 
+nodes                 3170/65536      101440/2097152  ( 4.8%) 
+texinfos              2739/12288      197208/884736   (22.3%) 
+texdata                422/2048        13504/65536    (20.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7016/65536      392896/3670016  (10.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5573/65536      312088/3670016  ( 8.5%) 
+leaves                3322/65536      106304/2097152  ( 5.1%) 
+leaffaces             8939/65536       17878/131072   (13.6%) 
+leafbrushes           4160/65536        8320/131072   ( 6.3%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges            56484/512000     225936/2048000  (11.0%) 
+edges                35988/256000     143952/1024000  (14.1%) 
+LDR worldlights         38/8192         3344/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            669/32768        6690/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13203/65536       26406/131072   (20.1%) 
+cubemapsamples          55/1024          880/16384    ( 5.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1719976/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      171492/16777216 ( 1.0%) 
+entdata               [variable]      118060/393216   (30.0%) 
+LDR ambient table     3322/65536       13288/262144   ( 5.1%) 
+HDR ambient table     3322/65536       13288/262144   ( 5.1%) 
+LDR leaf ambient     10861/65536      304108/1835008  (16.6%) 
+HDR leaf ambient      3322/65536       93016/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/22968    ( 0.0%) 
+pakfile               [variable]     4759846/0        ( 0.0%) 
+physics               [variable]      825662/4194304  (19.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20106
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+23 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001d"!
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001f"!
+Patching WVT material: maps/2003_trainstation_02/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 696 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (780564 bytes)
+Error! prop_static using model "models/2003/props_trainstation/bench_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/bench_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_trainstation/trashcan_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/trashcan_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_c17/FurnitureTable002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/FurnitureTable002a.mdl"!
+Error! prop_static using model "models/2003/props_c17/cashregister01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/cashregister01a.mdl"!
+Error! prop_static using model "models/2003/props_c17/storescale01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/storescale01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/metal_paintcan001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/metal_paintcan001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/cardboard_box002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/cardboard_box002a.mdl"!
+Error! prop_static using model "models/2003/props_interiors/Radiator01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_interiors/Radiator01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/TrashBin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/TrashBin01a.mdl"!
+Error! prop_static using model "models/2003/props_lab/monitor01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_lab/monitor01c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5969 texinfos to 2503
+Reduced 673 texdatas to 422 (41936 bytes to 25067)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt
+ 890 portalclusters
+2553 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6.
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001d"!
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001f"!
+Patching WVT material: maps/2003_trainstation_02/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 696 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (819554 bytes)
+Error! prop_static using model "models/2003/props_trainstation/bench_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/bench_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_trainstation/trashcan_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/trashcan_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_c17/FurnitureTable002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/FurnitureTable002a.mdl"!
+Error! prop_static using model "models/2003/props_c17/cashregister01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/cashregister01a.mdl"!
+Error! prop_static using model "models/2003/props_c17/storescale01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/storescale01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/metal_paintcan001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/metal_paintcan001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/cardboard_box002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/cardboard_box002a.mdl"!
+Error! prop_static using model "models/2003/props_interiors/Radiator01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_interiors/Radiator01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/TrashBin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/TrashBin01a.mdl"!
+Error! prop_static using model "models/2003/props_lab/monitor01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_lab/monitor01c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6311 texinfos to 2663
+Reduced 674 texdatas to 423 (41952 bytes to 25083)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt
+ 890 portalclusters
+2553 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2499 visible clusters (0.90%)
+Total clusters visible: 278389
+Average clusters visible: 312
+Building PAS...
+Average clusters audible: 704
+visdatasize:172106  compressed from 199360
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+1 minute, 19 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+ERROR: Duplication of 'shadertest/gooinglass' in file 'lights.rad'!
+ERROR: Duplication of '2003_plaster/plasterwall029h' in file 'lights.rad'!
+[81 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+7012 faces
+1 degenerate faces
+1972735 square feet [284073920.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7011 patches before subdivision
+49715 patches after subdivision
+40 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7738166, max 1501
+transfer lists:  59.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(201711, 173585, 102373)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(37159, 29436, 13893)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8593, 6490, 2585)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2149, 1527, 502)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(648, 441, 124)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(191, 122, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(67, 41, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(22, 12, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(8, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0075 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+4 of 5 (80% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  79/1024         3792/49152    ( 7.7%) 
+brushes               2213/8192        26556/98304    (27.0%) 
+brushsides           19702/65536      157616/524288   (30.1%) 
+planes               18362/65536      367240/1310720  (28.0%) 
+vertexes             12204/65536      146448/786432   (18.6%) 
+nodes                 3101/65536       99232/2097152  ( 4.7%) 
+texinfos              2663/12288      191736/884736   (21.7%) 
+texdata                423/2048        13536/65536    (20.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7012/65536      392672/3670016  (10.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5568/65536      311808/3670016  ( 8.5%) 
+leaves                3181/65536      101792/2097152  ( 4.9%) 
+leaffaces             8936/65536       17872/131072   (13.6%) 
+leafbrushes           4162/65536        8324/131072   ( 6.4%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges            56444/512000     225776/2048000  (11.0%) 
+edges                35403/256000     141612/1024000  (13.8%) 
+LDR worldlights         38/8192         3344/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            658/32768        6580/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13005/65536       26010/131072   (19.8%) 
+cubemapsamples          55/1024          880/16384    ( 5.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1720260/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      172106/16777216 ( 1.0%) 
+entdata               [variable]       92537/393216   (23.5%) 
+LDR ambient table     3181/65536       12724/262144   ( 4.9%) 
+HDR ambient table     3181/65536       12724/262144   ( 4.9%) 
+LDR leaf ambient     10744/65536      300832/1835008  (16.4%) 
+HDR leaf ambient      3181/65536       89068/1835008  ( 4.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/22968    ( 0.0%) 
+pakfile               [variable]     4759846/0        ( 0.0%) 
+physics               [variable]      819554/4194304  (19.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20094
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+24 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.vmf
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001d"!
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Error! Variable "$surfaceprop" is multiply defined in material "2003_storefront_template/storefront_template001f"!
+Patching WVT material: maps/2003_trainstation_02/nature/blenddirtgrass001b_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 696 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_trainstation01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (819554 bytes)
+Error! prop_static using model "models/2003/props_trainstation/bench_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/bench_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_trainstation/trashcan_indoor001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_trainstation/trashcan_indoor001a.mdl"!
+Error! prop_static using model "models/2003/props_c17/FurnitureTable002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/FurnitureTable002a.mdl"!
+Error! prop_static using model "models/2003/props_c17/cashregister01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/cashregister01a.mdl"!
+Error! prop_static using model "models/2003/props_c17/storescale01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_c17/storescale01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/metal_paintcan001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/metal_paintcan001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/2003/props_junk/cardboard_box002a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/cardboard_box002a.mdl"!
+Error! prop_static using model "models/2003/props_interiors/Radiator01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_interiors/Radiator01a.mdl"!
+Error! prop_static using model "models/2003/props_junk/TrashBin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_junk/TrashBin01a.mdl"!
+Error! prop_static using model "models/2003/props_lab/monitor01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/2003/props_lab/monitor01c.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6311 texinfos to 2663
+Reduced 674 texdatas to 423 (41952 bytes to 25083)
+Writing C:\Program Files (x86)\Steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.prt
+ 890 portalclusters
+2553 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2499 visible clusters (0.90%)
+Total clusters visible: 278389
+Average clusters visible: 312
+Building PAS...
+Average clusters audible: 704
+visdatasize:172106  compressed from 199360
+writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+1 minute, 20 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+ERROR: Duplication of 'shadertest/gooinglass' in file 'lights.rad'!
+ERROR: Duplication of '2003_plaster/plasterwall029h' in file 'lights.rad'!
+[81 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+7012 faces
+1 degenerate faces
+1972735 square feet [284073920.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7011 patches before subdivision
+49715 patches after subdivision
+40 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7738166, max 1501
+transfer lists:  59.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(201711, 173585, 102373)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(37159, 29436, 13893)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8593, 6490, 2585)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2149, 1527, 502)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(648, 441, 124)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(191, 122, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(67, 41, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(22, 12, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(8, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0072 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+4 of 5 (80% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  79/1024         3792/49152    ( 7.7%) 
+brushes               2213/8192        26556/98304    (27.0%) 
+brushsides           19702/65536      157616/524288   (30.1%) 
+planes               18362/65536      367240/1310720  (28.0%) 
+vertexes             12204/65536      146448/786432   (18.6%) 
+nodes                 3101/65536       99232/2097152  ( 4.7%) 
+texinfos              2663/12288      191736/884736   (21.7%) 
+texdata                423/2048        13536/65536    (20.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7012/65536      392672/3670016  (10.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5568/65536      311808/3670016  ( 8.5%) 
+leaves                3181/65536      101792/2097152  ( 4.9%) 
+leaffaces             8936/65536       17872/131072   (13.6%) 
+leafbrushes           4162/65536        8324/131072   ( 6.4%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges            56444/512000     225776/2048000  (11.0%) 
+edges                35403/256000     141612/1024000  (13.8%) 
+LDR worldlights         38/8192         3344/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            658/32768        6580/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13005/65536       26010/131072   (19.8%) 
+cubemapsamples          55/1024          880/16384    ( 5.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1720260/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      172106/16777216 ( 1.0%) 
+entdata               [variable]       92539/393216   (23.5%) 
+LDR ambient table     3181/65536       12724/262144   ( 4.9%) 
+HDR ambient table     3181/65536       12724/262144   ( 4.9%) 
+LDR leaf ambient     10744/65536      300832/1835008  (16.4%) 
+HDR leaf ambient      3181/65536       89068/1835008  ( 4.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/22968    ( 0.0%) 
+pakfile               [variable]     4759846/0        ( 0.0%) 
+physics               [variable]      819554/4194304  (19.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20094
+Writing c:\program files (x86)\steam\steamapps\sourcemods\hl2_2003\maps\2003_trainstation_02.bsp
+24 seconds elapsed

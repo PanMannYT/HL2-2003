@@ -1,0 +1,129 @@
+// Choreo version 1
+actor "Boxcar_Phil"
+{
+  channel "Audio"
+  {
+    event speak "boxcarphil01a"
+    {
+      time 0.053333 1.928526
+      param "2003_npc_citizen.boxcarphil01a"
+      fixedlength
+    }
+    event speak "boxcarphil02a"
+    {
+      time 5.973333 8.852517
+      param "2003_npc_citizen.boxcarphil02a"
+      fixedlength
+    }
+    event speak "boxcarphil03a"
+    {
+      time 13.253332 17.310747
+      param "2003_npc_citizen.boxcarphil03a"
+      fixedlength
+    }
+    event speak "boxcarphil04"
+    {
+      time 20.953335 21.741589
+      param "2003_npc_citizen.boxcarphil04"
+      fixedlength
+    }
+  }
+  channel "Lookat"
+  {
+    event lookat "Look at player"
+    {
+      time 0.033333 2.186667
+      param "!player"
+    }
+    event lookat "Look at vort"
+    {
+      time 2.586667 9.379999
+      param "Boxcar_Vort"
+    }
+    event lookat "Look at player"
+    {
+      time 9.440000 13.086665
+      param "!player"
+    }
+    event lookat "Look at vort"
+    {
+      time 13.146667 17.193333
+      param "Boxcar_Vort"
+    }
+    event lookat "Look at player"
+    {
+      time 19.313334 21.186665
+      param "!player"
+    }
+  }
+  channel "Animations"
+  {
+  }
+  channel "Actions"
+  {
+    event firetrigger "open door"
+    {
+      time 16.706667 -1.000000
+      param "1"
+    }
+  }
+}
+
+actor "Boxcar_Vort"
+{
+  channel "Audio"
+  {
+    event speak "boxcarvort01b"
+    {
+      time 2.613333 5.791700
+      param "2003_npc_vortigaunt.boxcarvort01b"
+      fixedlength
+    }
+    event speak "boxcarvort02b"
+    {
+      time 9.466667 12.735170
+      param "2003_npc_vortigaunt.boxcarvort02b"
+      fixedlength
+    }
+    event speak "boxcarvort03b"
+    {
+      time 18.260000 20.521656
+      param "2003_npc_vortigaunt.boxcarvort03b"
+      fixedlength
+    }
+  }
+  channel "Lookat"
+  {
+    event lookat "Look at Phil"
+    {
+      time 2.133334 4.526668
+      param "Boxcar_Phil"
+    }
+    event lookat "Look at player"
+    {
+      time 4.533333 8.020000
+      param "!player"
+    }
+    event lookat "Look at player"
+    {
+      time 0.000000 2.100001
+      param "!player"
+    }
+    event lookat "Look at Phil"
+    {
+      time 8.186667 16.633333
+      param "Boxcar_Phil"
+    }
+    event lookat "Look at player"
+    {
+      time 16.933332 21.913334
+      param "!player"
+    }
+  }
+  channel "Animations"
+  {
+  }
+}
+
+fps 60
+snap off

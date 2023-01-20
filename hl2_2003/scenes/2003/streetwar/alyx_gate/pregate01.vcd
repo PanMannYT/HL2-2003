@@ -1,0 +1,57 @@
+// Choreo version 1
+actor "Alyx"
+{
+  channel "audio"
+  {
+    event speak "ok here's the deal"
+    {
+      time 0.813333 1.721905
+      param "2003_streetwar.al_thedeal"
+      fixedlength
+    }
+    event speak "the bridge we gotta cross..."
+    {
+      time 2.293333 4.531791
+      param "2003_streetwar.al_bridge01"
+      fixedlength
+    }
+    event speak "i can hack thru but..."
+    {
+      time 4.700000 9.479093
+      param "2003_streetwar.al_bridge02"
+      fixedlength
+    }
+    event speak "could take a coupla minutes"
+    {
+      time 10.540000 12.859637
+      param "2003_streetwar.al_coupleminutes"
+      fixedlength
+    }
+    event speak "good, let's go."
+    {
+      time 13.853333 14.708163
+      param "2003_streetwar.al_goodletsgo"
+      fixedlength
+    }
+  }
+  channel "look at"
+  {
+    event lookat "look at player01"
+    {
+      time 1.413333 3.580000
+      param "!player"
+    }
+    event lookat "look at player02"
+    {
+      time 11.946667 14.693333
+      param "!player"
+    }
+  }
+  channel "move to"
+  {
+  }
+  faceposermodel "U:\HL2\hl2\models\alyx.mdl"
+}
+
+fps 60
+snap off

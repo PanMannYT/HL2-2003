@@ -1,0 +1,25 @@
+// Choreo version 1
+actor "Monk"
+{
+  channel "audio"
+  {
+    event speak "greetings my brother!"
+    {
+      time 0.066667 11.435737
+      ramp 1.00 1.00 1.00
+      param "vo\2003_monk\monk_yard01.wav"
+      param2 "90dB"
+      fixedlength
+    }
+  }
+  channel "look at"
+  {
+    event lookat "look at player"
+    {
+      time 0.033333 11.586667
+      ramp 1.00 1.00 1.00
+      param "!player"
+    }
+  }
+}
+

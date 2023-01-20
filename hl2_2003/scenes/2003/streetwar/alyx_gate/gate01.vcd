@@ -1,0 +1,35 @@
+// Choreo version 1
+actor "Alyx"
+{
+  channel "audio"
+  {
+    event speak "shouldn't take long"
+    {
+      time 0.106667 1.253538
+      param "2003_streetwar.al_nottoolong"
+      fixedlength
+    }
+    event speak "it's a standard panel"
+    {
+      time 1.493333 2.461814
+      param "2003_streetwar.al_standardpanel"
+      fixedlength
+    }
+    event speak "cmon, cmon"
+    {
+      time 8.233334 9.443016
+      param "2003_streetwar.al_cmoncmon"
+      fixedlength
+    }
+  }
+  channel "look at"
+  {
+  }
+  channel "move to"
+  {
+  }
+  faceposermodel "U:\HL2\hl2\models\alyx.mdl"
+}
+
+fps 60
+snap off

@@ -1,0 +1,38 @@
+// Choreo version 1
+actor "!Target1"
+{
+  channel "Audio"
+  {
+    event speak "2003_Trainyard.ba_scanbooth03"
+    {
+      time 0.000000 1.759592
+      param "2003_Trainyard.ba_scanbooth03"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+  channel "Expression"
+  {
+  }
+  channel "Look"
+  {
+    event lookat "Lookatplayer"
+    {
+      time 0.000000 1.760001
+      param "!player"
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "100"
+  "RampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "SceneRampTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off
