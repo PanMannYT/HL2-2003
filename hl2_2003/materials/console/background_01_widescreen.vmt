@@ -1,6 +1,6 @@
 "unlitgeneric"
 {
-	"$basetexture" "console/background_2003_widescreen"
+	"$basetexture" "console/background_01_widescreen"
 //	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1
