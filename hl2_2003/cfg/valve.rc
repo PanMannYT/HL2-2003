@@ -14,7 +14,7 @@ stuffcmds
 
 // custom values
 
-sv_unlockedchapters 99
+startupmenu
 
 //play ui/gamestartup0.mp3 
 
